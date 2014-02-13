@@ -1,0 +1,9 @@
+== README
+
+Peerkat is a tool to facilitate learning within a group or organisation. The goal is to connect people who want to learn with others willing to share their knowledge or skill. Once a connection has been made the 'event' is dragged to the schedule board.
+
+This is app is the product of a group of girls from Melbourne who are learning Ruby on Rails!
+
+* ruby 2.0.0p353
+
+
