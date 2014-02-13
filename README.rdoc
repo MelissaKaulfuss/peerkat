@@ -4,6 +4,5 @@ Peerkat is a tool to facilitate learning within a group or organisation. The goa
 
 This is app is the product of a group of girls from Melbourne who are learning Ruby on Rails!
 
-* ruby 2.0.0p353
+Using ruby 2.0.0p353
 
-* Test update by Amanda!
