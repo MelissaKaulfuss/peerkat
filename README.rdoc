@@ -6,4 +6,4 @@ This is app is the product of a group of girls from Melbourne who are learning R
 
 * ruby 2.0.0p353
 
-
+* Test update by Amanda!
